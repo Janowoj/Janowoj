@@ -21,6 +21,17 @@
 
 ## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
 
+- 🔥 Certificates:
+  <ul>
+	  <li><a href="https://www.freecodecamp.org/certification/Janowoj/responsive-web-design">FCC Responsive Web Design</a></li>
+	  <li><a href="https://www.freecodecamp.org/certification/Janowoj/javascript-algorithms-and-data-structures">FCC Javascript Algorithms and Data Structures</a></li>
+	  <li><a href="https://www.udemy.com/certificate/UC-51c86755-f55e-4cfb-9187-1a7e2971f2f6/">The Bootstrap 4 Bootcamp</a></li>
+	  <li><a href="https://www.udemy.com/certificate/UC-614f6f53-1953-45c0-a57d-46df02e6a074/">SQL - język zapytań do bazy danych SQL Server</a></li>
+  </ul>
+- 👀 I’m looking to cooperate with other content creators;
+- 💥 2023 Goals: Learn more about React, TypeScript and deeper understanding of JavaScript. Looking for new job as a Front-end dev;
+- 😻 Check out my FCC profile: https://www.freecodecamp.org/Janowoj
+
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
