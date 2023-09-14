@@ -31,7 +31,7 @@
   
 <div align="center" target="_blank">
 	<a href="https://www.linkedin.com/in/jan-w%C3%B3jcik-245374252" rel="nofollow">
-  		<img alt="Jan Wójcik LinkedIn" width="22px" src="https://fontawesome.com/icons/linkedin?f=brands&s=solid" style="max-width: 100%;">
+  		<img alt="Jan Wójcik LinkedIn" src="https://fontawesome.com/icons/linkedin?f=brands&s=solid">
 	</a>
 </div>
 </p>
