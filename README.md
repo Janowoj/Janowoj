@@ -48,10 +48,10 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Janowoj}/count.svg"></p>
 
-## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
+## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects and Apps
 <ul>			
 	<li><i><a href="https://github.com/Janowoj/javascript-drum-kit">Javascript Drum Kit</a></i>:<ul><li>An app with 9 keyboards, pressing which we can release different types of drum-kit sounds</li></ul></li>
-	<li><i><a href="https://github.com/Janowoj/playing-with-css-variables-and-js">Playing with CSS</a></i>:<ul><li>This is my next project with css variable learning and playing with. I used controls to change variables like spacing, blur and base color of the image.</li></ul></li>
+	<li><i><a href="https://github.com/Janowoj/playing-with-css-variables-and-js">Playing with CSS</a></i>:<ul><li>This is my next small JS app from javascript30.com with CSS variables learning and playing with. I used controls to change variables like spacing, blur and base color of the image.</li></ul></li>
 	
 </ul>
 
