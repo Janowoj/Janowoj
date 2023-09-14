@@ -50,7 +50,7 @@
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
 <ul>			
-	<li><i><a href=""></a></i>:<ul><li</li></ul></li>
+	<li><i><a href="https://github.com/Janowoj/javascript-drum-kit">Javascript Drum Kit</a></i>:<ul><li>An app with 9 keyboards, pressing which we can release different types of drum-kit sounds</li/ul></li>
 	
 </ul>
 
