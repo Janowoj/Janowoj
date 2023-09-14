@@ -30,6 +30,8 @@
   </ul>
 - 👀 I’m looking to cooperate with other content creators;
 - 💥 2023 Goals: Learn more about React, TypeScript and deeper understanding of JavaScript. Looking for new job as a Front-end dev;
+- 😏 Courses in progress: javascript30.com challenge and Modern React and Redux Course [2023 Update] on Udemy by Stephen Grider
+   (https://www.udemy.com/course/react-redux/learn/lecture/34694444?start=15#overview)
 - 😻 Check out my FCC profile: https://www.freecodecamp.org/Janowoj
 
 <p>
