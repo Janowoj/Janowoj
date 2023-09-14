@@ -13,6 +13,7 @@
 	<li><i><a href="https://github.com/Janowoj/pics-app">Search pictures</a></i>:<ul><li>One of my first React apps. When user types a term into an input, there is displayed a bunch of photos related to this term.</li></ul></li>
 	<li><i><a href="https://github.com/Janowoj/js-and-css-clock">JS and CSS Clock</a></i>:<ul><li>Simple and smart JS and CSS clock</li></ul></li>
 	<li><i><a href="https://github.com/Janowoj/javascript-drum-kit">Javascript Drum Kit</a></i>:<ul><li>An app with 9 keyboards, pressing which we can release different types of drum-kit sounds</li></ul></li>
+	<li><i><a href="https://github.com/Janowoj/firstWebsites">Kroki ku relacji (Steps into relationship)</a></i>:<ul><li>One of my first website. Used Bootstrap and SCSS.</li></ul></li>
 	<li><i><a href="https://github.com/Janowoj/playing-with-css-variables-and-js">Playing with CSS</a></i>:<ul><li>This is my next small JS app from javascript30.com with CSS variables learning and playing with. I used controls to change variables like spacing, blur and base color of the image.</li></ul></li>
 	
 	
