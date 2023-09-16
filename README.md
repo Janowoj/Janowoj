@@ -45,6 +45,7 @@
 
 <p>
 <div align="center">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Underscore.js&color=0371B5&logo=Underscore.js&logoColor=FFFFFF&label=">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=black">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
