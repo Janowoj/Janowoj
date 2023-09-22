@@ -10,7 +10,8 @@
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects and Apps
 <ul>			
-	<li><i><a href="https://github.com/Janowoj/pics-app">Search pictures</a></i>:<ul><li>One of my first React apps. When user types a term into an input, there is displayed a bunch of photos related to this term.</li></ul></li>
+	<li><i><a href="https://github.com/Janowoj/books">Search pictures</a></i>:<ul><li>One of my first React apps. After submiting title of book, the card with that title and random image is rendered. The book card can be edited or deleted.</li></ul></li>
+	<li><i><a href="https://github.com/Janowoj/pics-app">Search pictures</a></i>:<ul><li>Also of my first React apps. When user types a term into an input, there is displayed a bunch of photos related to this term.</li></ul></li>
 	<li><i><a href="https://github.com/Janowoj/js-and-css-clock">JS and CSS Clock</a></i>:<ul><li>Simple and smart JS and CSS clock</li></ul></li>
 	<li><i><a href="https://github.com/Janowoj/javascript-drum-kit">Javascript Drum Kit</a></i>:<ul><li>An app with 9 keyboards, pressing which we can release different types of drum-kit sounds</li></ul></li>
 	<li><i><a href="https://github.com/Janowoj/firstWebsites">Kroki ku relacji (Steps into relationship)</a></i>:<ul><li>One of my first website. Used Bootstrap and SCSS.</li></ul></li>
