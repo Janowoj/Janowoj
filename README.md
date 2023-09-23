@@ -34,6 +34,7 @@
 - 😏 Courses in progress: javascript30.com challenge and Modern React and Redux Course [2023 Update] on Udemy by Stephen Grider
    (https://www.udemy.com/course/react-redux/learn/lecture/34694444?start=15#overview)
 - 😻 Check out my FCC profile: https://www.freecodecamp.org/Janowoj
+- 🥊 My daily kata-training: https://www.codewars.com/users/janowo
 
 <p>
 <div align="center">
