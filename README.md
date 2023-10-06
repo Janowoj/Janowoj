@@ -24,6 +24,7 @@
 
 - 🔥 Certificates:
   <ul>
+	  <li><a href="https://www.udemy.com/certificate/UC-a912fef8-2acb-4d56-96c6-5d2f4d3f3b3c">JavaScript: Understanding the Weird Parts</a></li>
 	  <li><a href="https://www.freecodecamp.org/certification/Janowoj/responsive-web-design">FCC Responsive Web Design</a></li>
 	  <li><a href="https://www.freecodecamp.org/certification/Janowoj/javascript-algorithms-and-data-structures">FCC Javascript Algorithms and Data Structures</a></li>
 	  <li><a href="https://www.udemy.com/certificate/UC-51c86755-f55e-4cfb-9187-1a7e2971f2f6/">The Bootstrap 4 Bootcamp</a></li>
